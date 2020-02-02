@@ -1,4 +1,4 @@
-# LeNet-based-leaf-disease-recognition-
+# LeNet-based-leaf-disease-recognition
 used to recognize 3 types of disease and health of corn leaves
 limited by the upload size,the upload file '.zip' doesn't contain 'original','resize','resize.py' mentioned in 'readme.pdf'
 users can follow the Step3 mentioned in 'readme.pdf',run 'train_test.py' directly
